@@ -1,0 +1,20 @@
+Q1
+a. 正確
+b. 錯誤 (應改為 var number : Float = 5.6)
+c. 正確
+d. 錯誤 (應改為 val content : String? = null)
+e. 正確 
+f. 錯誤 (應該為 var list : List<String?> = listOf(null, null) )
+g. 正確
+h. 正確
+i. 正確
+
+
+Q2
+答案為 c
+因為 message 字元長度為 39 個字
+
+
+Q3
+答案為d
+因為 array 有 6 個值，會依索引值 0 到 5 依序做 1000 次方，產生 output
